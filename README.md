@@ -9,6 +9,8 @@
 
 ## General Controls
 
+This is a plugin designed to enhance the system's photo app.
+
 - **Enable PhotosCore**: Enables or disables all PhotosCore runtime features. The state is read when the Photos process starts, preventing hooks from being installed or removed while Photos is running. A restart confirmation is shown after changing this setting.
 - **Show Function Descriptions**: Shows or hides the explanatory text displayed below PhotosCore options. Changes take effect after the requested process restart.
 - **Restore Default Settings**: Restores feature options and the native thumbnail mode. It does not change the master enable state or the Show Function Descriptions preference.
