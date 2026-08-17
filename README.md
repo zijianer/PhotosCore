@@ -102,5 +102,4 @@ These options are grouped under **Test Features** because they are still experim
 
 ---
 
-![智能相册与运行注意事项截图](./IMG_3518.PNG)
 
