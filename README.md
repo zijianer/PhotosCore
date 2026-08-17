@@ -1,4 +1,4 @@
-# PhotosCore Binary Release
+# PhotosCore
 
 
 - Package: `com.zijian.photoscore`
