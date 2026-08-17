@@ -9,4 +9,3 @@ Private binary distribution repository for Havoc review.
 - Injection target: `com.apple.mobileslideshow` / `MobileSlideShow`
 
 The installable package is available from the GitHub Release. This repository
-does not contain tweak source code, `.xm` files, or source archives.
