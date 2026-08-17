@@ -101,4 +101,4 @@ These options are grouped under **Test Features** because they are still experim
 - Smart Album cleanup operations modify album membership only. They do not delete the underlying photos or videos from the photo library.
 
 
-This repository and Release do not include tweak source code, `.xm` files, or source archives.
+
