@@ -100,5 +100,7 @@ These options are grouped under **Test Features** because they are still experim
 - Preference changes that affect hook installation use a Photos/SpringBoard restart flow to avoid changing hooks in a live Photos process.
 - Smart Album cleanup operations modify album membership only. They do not delete the underlying photos or videos from the photo library.
 
+---
 
+![智能相册与运行注意事项截图](./IMG_3518.PNG)
 
