@@ -1,5 +1,7 @@
-# PhotosCore
 
+#This is a plugin designed to enhance the system's photo app.
+
+# PhotosCore
 
 - Package: `com.zijian.photoscore`
 - Version: `1.0.0-14.12`
@@ -8,8 +10,6 @@
 - Injection target: `com.apple.mobileslideshow` / `MobileSlideShow`
 
 ## General Controls
-
-This is a plugin designed to enhance the system's photo app.
 
 - **Enable PhotosCore**: Enables or disables all PhotosCore runtime features. The state is read when the Photos process starts, preventing hooks from being installed or removed while Photos is running. A restart confirmation is shown after changing this setting.
 - **Show Function Descriptions**: Shows or hides the explanatory text displayed below PhotosCore options. Changes take effect after the requested process restart.
