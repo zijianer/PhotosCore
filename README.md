@@ -1,6 +1,5 @@
 # PhotosCore Binary Release
 
-Private binary distribution repository for Havoc review.
 
 - Package: `com.zijian.photoscore`
 - Version: `1.0.0-14.12`
@@ -8,4 +7,3 @@ Private binary distribution repository for Havoc review.
 - Architectures: `arm64`, `arm64e`
 - Injection target: `com.apple.mobileslideshow` / `MobileSlideShow`
 
-The installable package is available from the GitHub Release. This repository
