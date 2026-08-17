@@ -1,5 +1,4 @@
-
-#This is a plugin designed to enhance the system's photo app.
+**This is a plugin designed to enhance the system's photo app.**
 
 # PhotosCore
 
